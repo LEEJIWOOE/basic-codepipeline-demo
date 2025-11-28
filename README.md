@@ -6,3 +6,5 @@ retry 402
 11/27 
 git branch - main 변경 
 code pipeline 자동화 test123123123123123
+11/28
+code pipeline 자동화 test retry
